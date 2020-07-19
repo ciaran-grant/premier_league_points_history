@@ -15,7 +15,7 @@ Packages:
 - matplotlib == 3.2.1
 
 How do points totals recently compare to early Premier League seasons?
-![history](/Premier League Points Totals by Position.png)
+<img src="Premier League Points Totals by Position.PNG" align="center">
 
 What has happened to the gap between the champions and relegation survivors?
 ![champions](/Champions and Survivors Gap.png)
