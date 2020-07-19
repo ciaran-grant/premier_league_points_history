@@ -9,10 +9,10 @@ This repository contains a jupyter notebook which aims to  investigate the follo
 League tables for each season have been pulled from www.fbref.com.
 
 Packages:
--requests == 2.24.0
--beautifulsoup4 == 4.6.0
--pandas == 1.0.3
--matplotlib == 3.2.1
+- requests == 2.24.0
+- beautifulsoup4 == 4.6.0
+- pandas == 1.0.3
+- matplotlib == 3.2.1
 
 How do points totals recently compare to early Premier League seasons?
 /image1
