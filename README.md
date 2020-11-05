@@ -6,6 +6,10 @@ This repository contains a jupyter notebook which aims to  investigate the follo
 - What has happened to the gap between the champions and relegation survivors?
 - How many points do you tend to need to qualify for Europe recently?
 
+## Blog Post
+
+https://thelastmananalytics.home.blog/2020/07/19/24-premier-league-points-history/
+
 League tables for each season have been pulled from www.fbref.com.
 
 Packages:
